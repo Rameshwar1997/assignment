@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="634" started-at="2020-01-09T02:11:01 IST" finished-at="2020-01-09T02:11:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="634" started-at="2020-01-09T02:11:01 IST" finished-at="2020-01-09T02:11:02 IST">
+      <class name="Dataprovider3">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:Dataprovider3@6f1fba17]" name="test" duration-ms="17" started-at="2020-01-09T02:11:02 IST" data-provider="createUser" finished-at="2020-01-09T02:11:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:Dataprovider3@6f1fba17]" name="test" duration-ms="3" started-at="2020-01-09T02:11:02 IST" data-provider="createUser" finished-at="2020-01-09T02:11:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:Dataprovider3@6f1fba17]" name="test" duration-ms="2" started-at="2020-01-09T02:11:02 IST" data-provider="createUser" finished-at="2020-01-09T02:11:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:Dataprovider3@6f1fba17]" name="test" duration-ms="2" started-at="2020-01-09T02:11:02 IST" data-provider="createUser" finished-at="2020-01-09T02:11:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:Dataprovider3@6f1fba17]" name="test" duration-ms="1" started-at="2020-01-09T02:11:02 IST" data-provider="createUser" finished-at="2020-01-09T02:11:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[g]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Dataprovider3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
